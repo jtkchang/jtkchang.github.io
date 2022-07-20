@@ -6,20 +6,19 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_cicular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>1601 Trinity Street, HDB 5.202</p>
+    <p>Austin, TX 78712</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Joshua Chang, M.D., Ph.D., is an assistant professor in the Department of Neurology and a courtesy assistant professor in the Department of Population Health.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Chang completed his Bachelor of Science and his Master of Engineering degrees at the Massachusetts Institute of Technology in electrical engineering and computer science, focusing on signal processing and artificial intelligence. His master’s dissertation was completed at the MIT Lincoln Laboratory in missile tracking using different radar modalities.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before pursuing an M.D./Ph.D. at the University of Massachusetts Medical School, he worked as a software engineer at the Broad Institute and Harvard’s School of Public Health and Center for Health Decision Science. At UMass, he completed a thesis in quantitative health sciences and neurology under the supervision and mentorship of David Paydarfar, designing and developing adaptive control algorithms to optimize stimulus waveforms for implantable medical devices. He continues his research at Dell Medical School, studying ways to leverage artificial intelligence to better improve population health through health care across diagnostics, therapeutics and predictive analytics.
