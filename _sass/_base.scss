@@ -63,7 +63,8 @@ blockquote {
 // Card
 
 .card {
-  background-color: var(--global-card-bg-color);
+  background-color: var(--global-bg-color);
+  border: 1px solid var(--global-divider-color);
 
   img {
     width: 100%;
@@ -71,6 +72,22 @@ blockquote {
 
   .card-title {
     color: var(--global-text-color);
+    font-weight: 400;
+
+    a {
+      color: var(--global-text-color);
+    }
+
+    a:hover {
+      color: var(--global-theme-color);
+      text-decoration: none;
+    }
+  }
+
+  .badge {
+    background-color: var(--global-theme-color);
+    padding-left: 1rem;
+    padding-right: 1rem;
   }
 
   .card-item {
@@ -81,7 +98,13 @@ blockquote {
       display: flex;
       align-items: center;
     }
+
+    .list-group-item {
+      background-color: var(--global-bg-color);
+      border-color: var(--global-divider-color);
+    }
   }
+
 }
 
 // Citation
@@ -248,7 +271,7 @@ blockquote {
 .social {
   text-align: center;
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2rem;
     a {
       i::before {
         color: var(--global-text-color);
@@ -296,11 +319,11 @@ footer.sticky-bottom {
 
 .cv {
   margin-bottom: 40px;
-  
+
   .card {
     background-color: var(--global-card-bg-color);
     border: 1px solid var(--global-divider-color);
-    
+
     .list-group-item {
       background-color: inherit;
 
