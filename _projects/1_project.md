@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: electroceuticals
+description: Understanding how electrical stimulation can be optimized as a medical therapeutic
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: computational modeling
 ---
 
 Every project has a beautiful feature showcase page.
