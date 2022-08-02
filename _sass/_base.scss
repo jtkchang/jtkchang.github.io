@@ -100,6 +100,7 @@ blockquote {
     }
 
     .list-group-item {
+      background-color: var(--global-bg-color);
       border-color: var(--global-divider-color);
     }
   }
