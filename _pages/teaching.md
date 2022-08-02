@@ -22,8 +22,7 @@ nav_order: 5
         </span>
       </div>
     </div>
-  </div>
-  <div class="card-item">
+
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">
         <div class="row">
@@ -33,5 +32,6 @@ nav_order: 5
         </div>
       </li>
     </ul>
+
   </div>
 </div>
