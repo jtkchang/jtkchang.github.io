@@ -23,15 +23,16 @@ nav_order: 5
       </div>
     </div>
 
-    <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">
-        <div class="row">
-          <div class="col-sm-9">
-            Computational Neuroscience Unit (10 Lectures)
+    <div class="card-item">
+      <ul class="card-text font-weight-light list-group list-group-flush">
+        <li class="list-group-item">
+          <div class="row">
+            <div class="col-sm-9">
+              Computational Neuroscience Unit (10 Lectures)
+            </div>
           </div>
-        </div>
-      </li>
-    </ul>
-
+        </li>
+      </ul>
+    </div>
   </div>
 </div>
