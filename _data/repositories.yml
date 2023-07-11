@@ -2,5 +2,4 @@ github_users:
   - jtkchang
 
 github_repos:
-  - electroceuticals:
-    - phyz-lab/elc_gradient
+  - phyz-lab/elc_gradient
