@@ -12,7 +12,7 @@ There is considerable interest in leveraging electrical stimulation as a medical
 
 ### Relevant Publications
 <div class="publications">
-    {% bibliography -f papers -q @*[project=electroceuticals]* -template _layouts/bib2.html %}
+    {% bibliography -template _layouts/bib2.html -f papers -q @*[project=electroceuticals]* %}
 </div>
 
 ### Relevant Repositories
