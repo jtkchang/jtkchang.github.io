@@ -1,5 +1,6 @@
 github_users:
   - jtkchang
 
-github_repos_electroceuticals:
-  - phyz-lab/elc_gradient
+github_repos:
+  - electroceuticals:
+    - phyz-lab/elc_gradient
