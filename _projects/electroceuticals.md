@@ -2,7 +2,7 @@
 layout: page
 title: electroceuticals
 description: Understanding how electrical stimulation can be optimized as a medical therapeutic
-img: assets/img/12.jpg
+img: assets/img/electroceutical_icon.png
 importance: 1
 category: computational modeling
 ---
@@ -12,7 +12,7 @@ There is considerable interest in leveraging electrical stimulation as a medical
 
 ### Relevant Publications
 <div class="publications">
-    {% bibliography -template _layouts/bib2.html -f papers -q @*[project=electroceuticals]* %}
+    {% bibliography -template bib2.html -f papers -q @*[project=electroceuticals]* %}
 </div>
 
 ### Relevant Repositories
@@ -24,3 +24,6 @@ There is considerable interest in leveraging electrical stimulation as a medical
   {% endfor %}
 </div>
 {% endif %}
+
+### Funding
+Clayton Foundation for Research
