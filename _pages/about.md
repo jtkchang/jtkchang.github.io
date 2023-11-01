@@ -4,9 +4,9 @@ title: home
 permalink: /
 subtitle: <i>Signal processing, artificial intelligence and medicine.</i>
 
-# profile:
-#   align: right
-#   image: profile.jpg
+profile:
+  align: right
+  image: GJ-Movie.mp4
 #   image_cicular: false # crops the image to make it circular
 #   address: >
 #     <p>1601 Trinity Street, 5.202</p>
