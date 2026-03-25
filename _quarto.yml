@@ -41,8 +41,7 @@ website:
 
 format:
   html:
-    theme: 
-      light: [cosmo, styles/custom.scss]
+    theme: cosmo
     css: styles2.css
     toc: false
     page-layout: full
