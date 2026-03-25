@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Chang Lab"
+  description: "Signal processing, artificial intelligence and medicine"
+  favicon: assets/favicon.ico
+  
+  navbar:
+    background: white
+    foreground: dark
+    left:
+      - text: "home"
+        href: index.qmd
+      - text: "research"
+        href: research.qmd
+      - text: "projects"
+        href: projects.qmd
+      - text: "publications"
+        href: publications.qmd
+      - text: "teaching"
+        href: teaching.qmd
+      - text: "people"
+        href: people.qmd
+    right:
+      - text: "cv"
+        href: cv.pdf
+      - icon: google-scholar
+        href: https://scholar.google.com/citations?user=GmJA-u0AAAAJ&hl=en&authuser=1&oi=ao
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jtkchang/
+  
+  page-footer:
+    background: light
+    left: "© Copyright 2026 Chang Lab."
+    center: "Powered by [Quarto](https://quarto.org/)"
+    right: 
+      - icon: github
+        href: https://github.com/jtkchang
+
+format:
+  html:
+    theme: 
+      light: [cosmo, styles/custom.scss]
+    css: styles2.css
+    toc: false
+    page-layout: full
+    link-external-newwindow: true

@@ -1,0 +1,90 @@
+---
+title: "Teaching"
+format:
+  html:
+    page-layout: article
+---
+
+::: {style="max-width: 850px;"}
+My teaching focuses on preparing students and trainees to engage thoughtfully with the increasing role of data, computation, and technology in medicine.
+
+Across undergraduate, graduate, and professional education, I aim to bridge engineering, clinical medicine, and the humanities—helping students develop both technical competence and the ability to critically evaluate how these tools shape human health and care.
+:::
+
+---
+
+## Teaching Approach
+
+::: {.callout-note appearance="minimal"}
+I aim to form not only skilled analysts, but thoughtful interpreters of data and technology in clinical and societal contexts.
+:::
+
+::: {style="max-width: 850px;"}
+My teaching emphasizes:
+
+- **Conceptual understanding over memorization**  
+  Students learn underlying principles that generalize across problems and domains.
+
+- **Connection to real-world problems**  
+  Technical methods are grounded in clinically meaningful applications.
+
+- **Interdisciplinary thinking**  
+  Courses integrate perspectives from engineering, medicine, and the humanities.
+
+- **Critical engagement with technology**  
+  Students are encouraged to examine the assumptions, limitations, and implications of data-driven tools.
+:::
+
+---
+
+## Courses
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+### Ancient Wisdom for Future Medicine (UGS 302)
+
+A freshman seminar exploring how historical traditions—including Judeo-Christian, Buddhist, and Greek thought—inform contemporary debates in medicine and emerging technologies such as AI, gene editing, and brain-computer interfaces.
+
+The course emphasizes discussion, reflection, and the development of frameworks for evaluating technological change.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Computational Neuroscience (Mathematical Physiology)
+
+A graduate-level lecture series introducing engineering and computational science students to neurological systems and clinical applications.
+
+Topics include neural dynamics, modeling approaches, and the use of computational tools to study disease and intervention.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Technology and Medicine (Medical Elective)
+
+An elective course for medical students focused on artificial intelligence, data science, and emerging technologies in clinical care.
+
+The course emphasizes data quality, model limitations, bias, and the role of clinicians in evaluating and shaping AI-enabled tools.
+:::
+
+:::
+
+---
+
+## Mentorship and Training
+
+::: {style="max-width: 850px;"}
+I work with students, residents, and trainees across disciplines to develop research questions, design studies, and apply quantitative methods to clinically meaningful problems.
+
+As Associate Program Director for Quantitative Research in the Neurology Residency Program, I mentor residents in:
+* Translating clinical observations into testable hypotheses  
+* Designing and analyzing research and quality improvement projects  
+* Interpreting data within appropriate clinical and statistical frameworks  
+
+Mentorship is an integral part of my work, with trainees participating in all stages of research, including analysis, presentation, and publication.
+:::
+
+---
+
+## Additional Resources
+
+- Course syllabi available upon request  
+- Selected materials and lectures may be shared in the future

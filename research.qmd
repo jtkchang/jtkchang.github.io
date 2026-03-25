@@ -1,0 +1,108 @@
+---
+title: "Research"
+format:
+  html:
+    page-layout: article
+---
+::: {style="max-width: 850px;"}
+My research focuses on developing computational and mathematical approaches to understand how physiological signals reflect underlying health states.
+
+Advances in clinical monitoring and wearable technologies have created an unprecedented volume of data—EEG, ECG, movement, and voice—collected across hospital and community settings. While these signals are often sparse, noisy, and heterogeneous, they contain meaningful structure that can be leveraged to improve clinical decision-making.
+:::
+
+**When appropriately modeled, physiological signals can:**
+
+- Enable early detection of disease  
+- Forecast health trajectories  
+- Inform personalized therapeutic strategies  
+
+---
+
+## Research Areas
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+### Physiological Signal Modeling
+We develop methods to extract structure and meaning from complex, real-world biosignals. This includes time-series analysis, feature extraction, and statistical modeling approaches that are robust to noise and variability.
+
+Applications span EEG, cardiovascular signals, respiration, and multimodal physiological data.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Cognitive Aging and Early Detection
+A major focus of our work is identifying early markers of cognitive decline.
+
+We develop scalable tools—particularly using voice and physiological data—to detect mild cognitive impairment in primary care and community settings, where traditional assessments are often underutilized.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Gait, Mobility, and Fall Risk
+We study movement as a physiological signal reflecting underlying neurological and musculoskeletal health.
+
+Our work includes markerless motion capture systems and modeling approaches to identify early indicators of instability, with the goal of shifting fall prevention toward proactive intervention.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Computational Modeling and Neurostimulation
+We develop computational models of physiological systems to guide intervention design.
+
+In electroceutical applications, this includes self-learning algorithms that discover optimized stimulation waveforms, enabling more selective and efficient neuromodulation strategies.
+:::
+
+:::
+
+---
+
+## Platforms and Systems
+
+A central contribution of my research program is the development of end-to-end systems that connect **data acquisition → infrastructure → modeling → clinical application**.
+
+These platforms transform physiological data from transient signals into durable, analyzable resources that support both research and real-world decision-making.
+
+::: {.callout-note appearance="simple"}
+
+### NICU Physiological Data Platform
+
+We have developed a data warehousing system that continuously captures physiological signals across neonatal intensive care units, enabling longitudinal analysis of developmental trajectories.
+
+This transforms previously transient monitoring data into a durable research and clinical resource, supporting studies of maturation, early detection, and discharge readiness.
+
+:::
+
+::: {.callout-note appearance="simple"}
+
+### Digital Cognitive Assessment Tools
+
+We are developing scalable, cloud-based tools for cognitive screening that integrate voice recordings, automated feature extraction, and machine learning models.
+
+These systems are designed for real-world use in primary care workflows, addressing barriers to early detection of cognitive impairment.
+
+:::
+
+::: {.callout-note appearance="simple"}
+
+### Markerless Motion Capture Systems
+
+We have developed low-cost, contactless systems for gait analysis using depth cameras, enabling quantitative mobility assessment without specialized infrastructure.
+
+This approach supports early identification of fall risk and expands access to objective movement analysis.
+
+:::
+
+---
+
+## Future Directions
+
+::: {style="max-width: 850px;"}
+My future work focuses on expanding these approaches into real-world, longitudinal settings and advancing model-driven, personalized medicine.
+:::
+
+**Key directions include:**
+- Community-based studies of cognitive aging and resilience  
+- Integration of wearable data for continuous health monitoring  
+- Translation of computational models into clinical and therapeutic applications  
+
+::: {style="max-width: 850px;"}
+Across these efforts, the goal is to move from isolated measurements toward continuous, data-informed understanding of human health.
+:::
