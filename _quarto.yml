@@ -24,8 +24,10 @@ website:
       - text: "people"
         href: people.qmd
     right:
-      - text: "cv"
-        href: cv.pdf
+      - icon: sun
+        href: "#"
+        aria-label: "Toggle dark mode"
+        toggle: color-mode
       - icon: google-scholar
         href: https://scholar.google.com/citations?user=GmJA-u0AAAAJ&hl=en&authuser=1&oi=ao
       - icon: linkedin
@@ -43,7 +45,7 @@ format:
   html:
     theme: 
       light: cosmo
-      dark: cosmo
+      dark: darkly
     css: styles2.css
     toc: false
     page-layout: full
