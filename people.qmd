@@ -52,7 +52,7 @@ waveforms.
 
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-3}
-![Sophia Epstein](images/people/sophia-epstein.png){style="width:100%; border-radius:6px;"}
+<div style="width:100%; aspect-ratio:1; border-radius:6px; background:#EEEDFE; display:flex; align-items:center; justify-content:center; font-size:2rem; font-weight:500; color:#3C3489;">SE</div>
 :::
 ::: {.g-col-12 .g-col-md-9}
 ### Sophia Epstein
@@ -65,7 +65,7 @@ stimulation strategies for therapeutic applications.
 
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-3}
-![Gabriela Renta Lopez](images/people/gabriela-renta-lopez.jfif){style="width:100%; border-radius:6px;"}
+<div style="width:100%; aspect-ratio:1; border-radius:6px; background:#E1F5EE; display:flex; align-items:center; justify-content:center; font-size:2rem; font-weight:500; color:#085041;">GR</div>
 :::
 ::: {.g-col-12 .g-col-md-9}
 ### Gabriela Renta Lopez
@@ -78,7 +78,7 @@ using EEG data.
 
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-3}
-![Jilliane Lagus](images/people/lagus.jpg){style="width:100%; border-radius:6px;"}
+<div style="width:100%; aspect-ratio:1; border-radius:6px; background:#FAEEDA; display:flex; align-items:center; justify-content:center; font-size:2rem; font-weight:500; color:#633806;">JL</div>
 :::
 ::: {.g-col-12 .g-col-md-9}
 ### Jilliane Lagus
@@ -91,13 +91,29 @@ swallowing events using physiological audio signals.
 
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-3}
-![Polina Lee](images/people/lee.jpg){style="width:100%; border-radius:6px;"}
+<div style="width:100%; aspect-ratio:1; border-radius:6px; background:#FAECE7; display:flex; align-items:center; justify-content:center; font-size:2rem; font-weight:500; color:#4A1B0C;">PL</div>
 :::
 ::: {.g-col-12 .g-col-md-9}
 ### Polina Lee
 *Undergraduate Student*
 
 Research focuses on movement metrics captured from smartphones as a predictor for fall risk.
+:::
+:::
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-3}
+<div style="width:100%; aspect-ratio:1; border-radius:6px; background:#E6F1FB; display:flex; align-items:center; justify-content:center; font-size:2rem; font-weight:500; color:#0C447C;">AR</div>
+:::
+::: {.g-col-12 .g-col-md-9}
+### Alisha Ragatz
+*Data Engineer*
+
+Builds and maintains the data infrastructure underlying the lab's physiological
+monitoring systems. Her work spans the full pipeline from sensor acquisition through
+ingestion, transformation, and warehousing — enabling the large-scale, longitudinal
+analyses that drive the lab's research across NICU monitoring, gait analysis, and
+cognitive assessment.
 :::
 :::
 
@@ -113,7 +129,6 @@ Students and trainees have gone on to careers in medicine, academia, and industr
 - **Rohan Shah** — Medical Student, UTMB
 - **Nitya Rao** — Ophthalmologist, Austin, TX
 - **Daniel Paydarfar** — PhD Candidate, Biostatistics, Harvard
-- **Alisha Ragatz** — Data Engineer, Dell Medical School
 - **Alan Gee** — Applied Machine Learning Scientist, Austin, TX
 
 ---
