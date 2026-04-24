@@ -6,92 +6,53 @@ format:
 ---
 
 ::: {style="max-width: 850px;"}
-This page highlights selected projects that reflect our approach to transforming physiological signals into clinically meaningful insight.
-
-Each project represents a concrete instantiation of our broader research program, spanning data acquisition, modeling, and real-world deployment.
+Selected projects spanning data acquisition, computational modeling, and real-world
+clinical deployment.
 :::
 
 ---
-
-::: {.callout-note appearance="simple"}
 
 ### NICU Physiological Data Platform
 
-**Problem**  
-Physiological signals in intensive care units are continuously monitored but rarely stored longitudinally, limiting the ability to study developmental trajectories and detect early signs of deterioration.
-
-**Approach**  
-We developed a data warehousing system that captures continuous physiological data across NICU beds and integrates with high-performance computing infrastructure for large-scale analysis.
-
-**Impact**  
-This platform enables quantitative modeling of neonatal maturation, supports early detection of adverse events, and transforms transient monitoring data into a durable institutional resource.
-
-:::
+We developed a data warehousing system that continuously captures physiological signals
+across NICU beds and integrates with high-performance computing infrastructure for
+large-scale analysis. This transforms previously transient monitoring data into a durable
+institutional resource, enabling longitudinal studies of neonatal maturation, early
+detection of adverse events, and quantitative modeling of developmental trajectories.
 
 ---
-
-::: {.callout-note appearance="simple"}
 
 ### Digital Cognitive Screening Tool
 
-**Problem**  
-Mild cognitive impairment is often underdiagnosed in primary care due to time constraints and limited access to scalable assessment tools.
-
-**Approach**  
-We developed a tablet-based application that collects demographic and voice data, which are processed through automated feature extraction and machine learning models via a secure cloud platform.
-
-**Impact**  
-This tool enables rapid, scalable cognitive screening in real-world clinical settings and lowers barriers to early detection and intervention.
-
-:::
+We developed a tablet-based application that collects voice and demographic data,
+processed through automated feature extraction and machine learning via a secure cloud
+platform. The tool enables rapid, scalable cognitive screening in primary care settings,
+lowering barriers to early detection of mild cognitive impairment where traditional
+assessments are often underutilized.
 
 ---
-
-::: {.callout-note appearance="simple"}
 
 ### Markerless Gait and Mobility Analysis
 
-**Problem**  
-Assessment of gait and fall risk often relies on subjective evaluation or expensive motion-capture systems that are not accessible in routine clinical settings.
-
-**Approach**  
-We developed a low-cost, contactless motion capture system using depth cameras to track joint movement and extract quantitative gait metrics.
-
-**Impact**  
-This system enables objective, scalable assessment of mobility and supports early identification of fall risk in clinical and community environments.
-
-:::
+We developed a low-cost, contactless motion capture system using depth cameras to track
+joint movement and extract quantitative gait metrics without specialized infrastructure.
+The system enables objective, scalable assessment of mobility and supports early
+identification of fall risk in both clinical and community environments.
 
 ---
-
-::: {.callout-note appearance="simple"}
 
 ### Adaptive Neuromodulation and Waveform Discovery
 
-**Problem**  
-Traditional neuromodulation approaches rely on fixed stimulation patterns that may be inefficient or non-selective in targeting neural populations.
-
-**Approach**  
-We developed self-learning algorithms that discover optimized stimulation waveforms using computational models of neural systems.
-
-**Impact**  
-This approach enables more precise and energy-efficient neuromodulation strategies and supports the development of personalized electroceutical therapies.
-
-:::
+We developed self-learning algorithms that discover optimized stimulation waveforms using
+computational models of neural systems. This approach moves beyond fixed stimulation
+patterns toward more precise and energy-efficient neuromodulation strategies, supporting
+the development of personalized electroceutical therapies.
 
 ---
 
-::: {.callout-note appearance="simple"}
-
 ### Multimodal Physiological Monitoring in Aging
 
-**Problem**  
-Understanding cognitive decline and resilience requires integrating multiple physiological signals across time, which is difficult with fragmented or short-term data collection.
-
-**Approach**  
-We are developing systems that combine EEG, cardiovascular signals, voice, and behavioral data in longitudinal, community-based settings.
-
-**Impact**  
-This work supports earlier identification of cognitive decline and advances the study of health trajectories in real-world environments.
-
-:::
+We are developing systems that combine EEG, cardiovascular signals, voice, and behavioral
+data in longitudinal, community-based settings. This work supports earlier identification
+of cognitive decline and advances the study of health trajectories across real-world
+environments over time.

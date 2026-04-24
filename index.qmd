@@ -4,19 +4,26 @@ format:
   html:
     page-layout: full
 ---
+
 ::: {style="margin-top: 0.5em; font-size: 1.2em;"}
 *Transforming physiological signals into actionable insight for human health*
 :::
 
-::: {style="margin-top: 1.5em; font-size: 1.1em; max-width: 800px;"}
-We develop computational approaches to understand how physiological signals—such as EEG, ECG, voice, and movement—reflect underlying health states.
+::: {style="margin-top: 0.5em; font-size: 1em; color: #bf5700"}
+Department of Neurology · Dell Medical School · The University of Texas at Austin
+:::
 
-Our work is driven by the idea that even sparse, noisy, and heterogeneous data contain meaningful structure. When modeled appropriately, these signals can enable early detection, forecast health trajectories, and inform personalized interventions across clinical and community settings.
+::: {style="margin-top: 1.5em; font-size: 1.1em; max-width: 800px;"}
+We develop computational approaches to understand how physiological signals—such as
+EEG, ECG, voice, and movement—reflect underlying health states.
+
+Our work is driven by the idea that even sparse, noisy, and heterogeneous data contain
+meaningful structure. When modeled appropriately, these signals can enable early
+detection, forecast health trajectories, and inform personalized interventions across
+clinical and community settings.
 :::
 
 ---
-
-## 
 
 ::: {style="text-align: center; font-size: 1.2em; margin: 2em 0;"}
 **Signals → Modeling → Health Trajectories → Clinical Decisions**
@@ -24,7 +31,15 @@ Our work is driven by the idea that even sparse, noisy, and heterogeneous data c
 
 ---
 
-## Research
+## News
+
+- **April 2026** — Tietronix Software, Inc., in partnership with Jared Benge and Joshua Chang, received a NASA grant to develop platforms for monitoring crewmember health and preserving mission performance during spaceflight.
+- **January 2026** — Gabriela Renta Lopez and Polina Lee presented their research at the Texas Alzheimer's Research and Care Consortium annual meeting.
+- **January 2026** — Sophia Epstein successfully defended her PhD proposal.
+
+---
+
+## Research Areas
 
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-6}
@@ -53,13 +68,20 @@ Simulating and optimizing interventions using mechanistic and data-driven models
 ## Approach
 
 ::: {style="max-width: 800px;"}
-We build end-to-end systems that connect data acquisition, infrastructure, modeling, and clinical use—shifting healthcare from reactive interpretation toward anticipatory, data-informed decision-making.
+We build end-to-end systems that connect data acquisition, infrastructure, modeling,
+and clinical use—shifting healthcare from reactive interpretation toward anticipatory,
+data-informed decision-making. Our collaborations span engineering, neuroscience, and
+clinical medicine.
 :::
 
 ---
 
-## Collaboration
+## Join Us
 
 ::: {style="max-width: 800px;"}
-We collaborate across engineering, neuroscience, and clinical medicine, and welcome students and partners interested in physiological signals, cognitive health, and translational data science.
+We welcome students and partners interested in physiological signals, cognitive health,
+and translational data science. Prospective graduate students, undergraduates, and
+collaborators are encouraged to reach out.
+
+**Contact:** [joshua.chang@austin.utexas.edu](mailto:joshua.chang@austin.utexas.edu)
 :::

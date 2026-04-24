@@ -6,74 +6,163 @@ format:
 ---
 
 ::: {style="max-width: 850px;"}
-My work spans computational modeling, physiological signal analysis, and clinically motivated applications in neurology and aging. Publications appear in interdisciplinary venues bridging engineering, medicine, and applied mathematics.
+Our work spans computational modeling, physiological signal analysis, and clinically
+motivated applications in neurology and aging. Publications appear in interdisciplinary
+venues bridging engineering, medicine, and applied mathematics.
+
+[Google Scholar](https://scholar.google.com/citations?user=GmJA-u0AAAAJ&hl=en&authuser=1&oi=ao){.btn .btn-outline-primary .btn-sm}
 :::
 
 ---
 
 ## Selected Publications
 
-::: {.callout-important appearance="minimal"}
-A curated selection of representative work spanning physiological signal modeling, intervention design, and clinical translation.
+A curated selection of representative work spanning physiological signal modeling,
+intervention design, and clinical translation.
+
+::: {.hanging-indent}
+**Chang, Joshua T., Alisha Ragatz\*, Anjana Ganesh\*, Ana P. Quiros Padilla\*, Mikayla
+R. Devins, Christina V. Mihova, and John G. Milton. (2025).** "Center of Mass (CoM)
+Motions and Foot Placement During Treadmill Walking Using One Time-of-Flight Camera."
+*Sensors*, 25(18): 5850. [DOI: 10.3390/s25185850](https://doi.org/10.3390/s25185850)  
+*Developed a vision-based system for quantifying gait dynamics, enabling accessible and
+scalable mobility assessment.*
+
+**Hilsabeck, Robin C., Jeffrey N. Keller, Maya L. Henry, Junyi Jessy Li, Lokesh
+Pugalenthi, Paul Toprac, Patrick Chang, Joshua Chang, Suzanne Schmitz, Avery Largent,
+and Heather Foil. (2025).** "Development and classification accuracy of an automated
+cognitive screening tool combining working memory and connected speech tasks for early
+detection of cognitive impairment in primary care." *Alzheimer's & Dementia: TRCI*,
+11(3): e70145. [DOI: 10.1002/trc2.70145](https://doi.org/10.1002/trc2.70145)  
+*Developed a scalable cognitive screening tool combining speech and working memory tasks
+for early detection in primary care.*
+
+**Paydarfar, Daniel A., David Paydarfar, Peter J. Mucha, and Joshua Chang. (2021).**
+"Optimizing emergency stroke transport strategies using physiological models." *Stroke*,
+52(12): 4010–4020.
+[DOI: 10.1161/STROKEAHA.120.031633](https://doi.org/10.1161/STROKEAHA.120.031633)  
+*Applied physiological modeling to optimize emergency stroke transport strategies and
+improve time-sensitive clinical decisions.*
+
+**Chang, Joshua, and David Paydarfar. (2021).** "Falling off a limit cycle using
+phase-agnostic stimuli: Applications to clinical oscillopathies." *Chaos*, 31(2): 023134.
+[DOI: 10.1063/5.0032974](https://doi.org/10.1063/5.0032974)  
+*Demonstrated how phase-independent stimulation can robustly alter oscillatory biological
+systems, with applications to clinical disorders.*
+
+**Chang, Joshua, and David Paydarfar. (2019).** "Optimizing stimulus waveforms for
+electroceuticals." *Biological Cybernetics*, 113(1): 191–199.
+[DOI: 10.1007/s00422-018-0774-x](https://doi.org/10.1007/s00422-018-0774-x)  
+*Introduced methods for optimizing stimulation waveforms, enabling more efficient and
+selective neuromodulation strategies.*
+
+**Chang, Joshua, and David Paydarfar. (2018).** "Evolution of extrema features reveals
+optimal stimuli for biological state transitions." *Scientific Reports*, 8(1): 1–13.
+[DOI: 10.1038/s41598-018-21761-8](https://doi.org/10.1038/s41598-018-21761-8)  
+*Developed a framework for identifying optimal stimuli to drive transitions in biological
+systems, linking signal features to intervention design.*
 :::
 
-- **Chang, Joshua T., Alisha Ragatz*, Anjana Ganesh*, Ana P. Quiros Padilla*, Mikayla R. Devins, Christina V. Mihova, and John G. Milton. (2025).** "Center of Mass (CoM) Motions and Foot Placement During Treadmill Walking Using One Time-of-Flight Camera." *Sensors*, 25(18): 5850. [DOI: 10.3390/s25185850](https://doi.org/10.3390/s25185850)
-Developed a vision-based system for quantifying gait dynamics, enabling accessible and scalable mobility assessment.
+---
 
-- **Hilsabeck, Robin C., Jeffrey N. Keller, Maya L. Henry, Junyi Jessy Li, Lokesh Pugalenthi, Paul Toprac, Patrick Chang, Joshua Chang, Suzanne Schmitz, Avery Largent, Heather Foil. (2025).** "Development and classification accuracy of an automated cognitive screening tool combining working memory and connected speech tasks for early detection of cognitive impairment in primary care." *Alzheimer's & Dementia: TRCI*, 11(3): e70145. [DOI: 10.1002/trc2.70145](https://doi.org/10.1002/trc2.70145)
-Developed a scalable cognitive screening tool combining speech and working memory tasks for early detection in primary care.
+## Full Publication List
 
-- **Paydarfar, Daniel A., David Paydarfar, Peter J. Mucha, and Joshua Chang. (2021).** "Optimizing emergency stroke transport strategies using physiological models." *Stroke*, 52(12): 4010–4020. [DOI: 10.1161/STROKEAHA.120.031633](https://doi.org/10.1161/STROKEAHA.120.031633)
-Applied physiological modeling to optimize emergency stroke transport strategies and improve time-sensitive clinical decisions.
+::: {.hanging-indent}
+**Chang, Joshua T., Alisha Ragatz\*, Anjana Ganesh\*, Ana P. Quiros Padilla\*, Mikayla
+R. Devins, Christina V. Mihova, and John G. Milton. (2025).** "Center of Mass (CoM)
+Motions and Foot Placement During Treadmill Walking Using One Time-of-Flight Camera."
+*Sensors*, 25(18): 5850. [DOI: 10.3390/s25185850](https://doi.org/10.3390/s25185850)
 
-- **Chang, Joshua, and David Paydarfar. (2021).** "Falling off a limit cycle using phase-agnostic stimuli: Applications to clinical oscillopathies." *Chaos*, 31(2): 023134. [DOI: 10.1063/5.0032974](https://doi.org/10.1063/5.0032974)
-Demonstrated how phase-independent stimulation can robustly altar oscillatory biological systems with applications to clinical disorders.
+**Hilsabeck, Robin C., Jeffrey N. Keller, Maya L. Henry, Junyi Jessy Li, Lokesh
+Pugalenthi, Paul Toprac, Patrick Chang, Joshua Chang, Suzanne Schmitz, Avery Largent,
+and Heather Foil. (2025).** "Development and classification accuracy of an automated
+cognitive screening tool combining working memory and connected speech tasks for early
+detection of cognitive impairment in primary care." *Alzheimer's & Dementia: TRCI*,
+11(3): e70145. [DOI: 10.1002/trc2.70145](https://doi.org/10.1002/trc2.70145)
 
-- **Chang, Joshua, and David Paydarfar. (2019).** "Optimizing stimulus waveforms for electroceuticals." *Biological Cybernetics*, 113(1): 191–199. [DOI: 10.1007/s00422-018-0774-x](https://doi.org/10.1007/s00422-018-0774-x)
-Introduced methods for optimizing stimulation waveforms, enabling more efficient and selective neuromodulation strategies.
+**Epstein, Sophia\*, Joshua Chang, Daniel Johnston, and David Paydarfar. (2024).**
+"Size principles governing selective neuromodulation and recruitment order of nerve
+fibers." *Current Opinion in Biomedical Engineering*.
+[DOI: 10.1016/j.cobme.2025.100583](https://doi.org/10.1016/j.cobme.2025.100583)
 
-- **Chang, Joshua, and David Paydarfar. (2018).** "Evolution of extrema features reveals optimal stimuli for biological state transitions." *Scientific Reports*, 8(1): 1–13. [DOI: 10.1038/s41598-018-21761-8](https://doi.org/10.1038/s41598-018-21761-8)
-Developed a framework for identifying optimal stimuli to drive transitions in biological systems linking signal features to intervention design.
---- 
+**Debnath, Minakshi\*, Joshua Chang†, Keshav Bhandari, Dalma J. Nagy, Tamas Insperger,
+John G. Milton, and Anne H. H. Ngu. (2024).** "Pole balancing on the fingertip:
+model-motivated machine learning forecasting of falls." *Frontiers in Physiology*, 15:
+1334396. [DOI: 10.3389/fphys.2024.1334396](https://doi.org/10.3389/fphys.2024.1334396)
 
-## Full Publication List 
+**Chang, Joshua, David Paydarfar, and John Milton. (2022).** "Multistable neuromorphic
+computing: controlling attractor switches using waveforms." 2022 *International Electron
+Devices Meeting (IEDM)*. IEEE.
+[DOI: 10.1109/IEDM45625.2022.10019427](https://doi.org/10.1109/IEDM45625.2022.10019427)
 
-A complete list of publications is provided below.
+**Paydarfar, Daniel A.\*, David Paydarfar, Peter J. Mucha, and Joshua Chang. (2021).**
+"Optimizing emergency stroke transport strategies using physiological models." *Stroke*,
+52(12): 4010–4020.
+[DOI: 10.1161/STROKEAHA.120.031633](https://doi.org/10.1161/STROKEAHA.120.031633)
 
-- **Chang, Joshua T., Alisha Ragatz*, Anjana Ganesh*, Ana P. Quiros Padilla*, Mikayla R. Devins, Christina V. Mihova, and John G. Milton. (2025).** "Center of Mass (CoM) Motions and Foot Placement During Treadmill Walking Using One Time-of-Flight Camera." *Sensors*, 25(18): 5850. [DOI: 10.3390/s25185850](https://doi.org/10.3390/s25185850)
+**Rao, Nitya\*, Joshua Chang, and David Paydarfar. (2021).** "Characterizing the
+performance of emergency medical transport time metrics in a residentially segregated
+community." *The American Journal of Emergency Medicine*, 50: 111–119.
+[DOI: 10.1016/j.ajem.2021.07.013](https://doi.org/10.1016/j.ajem.2021.07.013)
 
-- **Hilsabeck, Robin C., Jeffrey N. Keller, Maya L. Henry, Junyi Jessy Li, Lokesh Pugalenthi, Paul Toprac, Patrick Chang, Joshua Chang, Suzanne Schmitz, Avery Largent, Heather Foil. (2025).** "Development and classification accuracy of an automated cognitive screening tool combining working memory and connected speech tasks for early detection of cognitive impairment in primary care." *Alzheimer's & Dementia: TRCI*, 11(3): e70145. [DOI: 10.1002/trc2.70145](https://doi.org/10.1002/trc2.70145)
+**Chang, Joshua, and David Paydarfar. (2021).** "Falling off a limit cycle using
+phase-agnostic stimuli: Applications to clinical oscillopathies." *Chaos*, 31(2): 023134.
+[DOI: 10.1063/5.0032974](https://doi.org/10.1063/5.0032974)
 
-- **Epstein, Sophia*, Joshua Chang, Daniel Johnston, and David Paydarfar. (2024).** “Size principles governing selective neuromodulation and recruitment order of nerve fibers.” *Current Opinion in Biomedical Engineering*. [DOI: 10.1016/j.cobme.2025.100583](https://doi.org/10.1016/j.cobme.2025.100583)
+**Chang, Joshua, Varun Sridhar\*, and David Paydarfar. (2020).** "Falling off a limit
+cycle using phase-agnostic stimuli: Definitions and conceptual framework." *Chaos*,
+30(12): 123113. [DOI: 10.1063/5.0026143](https://doi.org/10.1063/5.0026143)
 
-- **Debnath, Minakshi*, Joshua Chang†, Keshav Bhandari, Dalma J. Nagy, Tamas Insperger, John G. Milton, and Anne H. H. Ngu. (2024).** “Pole balancing on the fingertip: model-motivated machine learning forecasting of falls.” *Frontiers in Physiology*, 15: 1334396. [DOI: 10.3389/fphys.2024.1334396](https://doi.org/10.3389/fphys.2024.1334396)
+**Ngu, Anne H., Vangelis Metsis, Shaun Coyne, Brian Chung, Rachel Pai, and Joshua Chang.
+(2020).** "Personalized fall detection system." 2020 *IEEE International Conference on
+Pervasive Computing and Communications Workshops (PerCom Workshops)*. IEEE.
+[DOI: 10.1109/PerComWorkshops48775.2020.9156172](https://doi.org/10.1109/PerComWorkshops48775.2020.9156172)
 
-- **Chang, Joshua, David Paydarfar, and John Milton. (2022).** "Multistable neuromorphic computing: controlling attractor switches using waveforms." 2022 *International Electron Devices Meeting (IEDM)*. IEEE. [DOI: 10.1109/IEDM45625.2022.10019427](https://doi.org/10.1109/IEDM45625.2022.10019427)
+**Chang, Joshua, and David Paydarfar. (2019).** "Optimizing stimulus waveforms for
+electroceuticals." *Biological Cybernetics*, 113(1): 191–199.
+[DOI: 10.1007/s00422-018-0774-x](https://doi.org/10.1007/s00422-018-0774-x)
 
-- **Paydarfar, Daniel A.*, David Paydarfar, Peter J. Mucha, and Joshua Chang. (2021).** "Optimizing emergency stroke transport strategies using physiological models." *Stroke*, 52(12): 4010–4020. [DOI: 10.1161/STROKEAHA.120.031633](https://doi.org/10.1161/STROKEAHA.120.031633)
+**Chang, Joshua, and David Paydarfar. (2018).** "Optimizing stimulus waveforms for
+suppressing epileptic activity reveals a counterbalancing mechanism." 2018 *40th Annual
+International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*.
+IEEE. [DOI: 10.1109/EMBC.2018.8512762](https://doi.org/10.1109/EMBC.2018.8512762)
 
-- **Rao, Nitya*, Joshua Chang, and David Paydarfar. (2021).** "Characterizing the performance of emergency medical transport time metrics in a residentially segregated community." *The American Journal of Emergency Medicine*, 50: 111–119. [DOI: 10.1016/j.ajem.2021.07.013](https://doi.org/10.1016/j.ajem.2021.07.013)
+**Gee, Alan H.\*, Joshua Chang, Joydeep Ghosh, and David Paydarfar. (2018).** "Bayesian
+online changepoint detection of physiological transitions." 2018 *40th Annual
+International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*.
+IEEE. [DOI: 10.1109/EMBC.2018.8512204](https://doi.org/10.1109/EMBC.2018.8512204)
 
-- **Chang, Joshua, and David Paydarfar. (2021).** "Falling off a limit cycle using phase-agnostic stimuli: Applications to clinical oscillopathies." *Chaos*, 31(2): 023134. [DOI: 10.1063/5.0032974](https://doi.org/10.1063/5.0032974)
+**Chang, Joshua, and David Paydarfar. (2018).** "Evolution of extrema features reveals
+optimal stimuli for biological state transitions." *Scientific Reports*, 8(1): 1–13.
+[DOI: 10.1038/s41598-018-21761-8](https://doi.org/10.1038/s41598-018-21761-8)
 
-- **Chang, Joshua, Varun Sridhar*, and David Paydarfar. (2020).** "Falling off a limit cycle using phase-agnostic stimuli: Definitions and conceptual framework." *Chaos*, 30(12): 123113. [DOI: 10.1063/5.0026143](https://doi.org/10.1063/5.0026143)
+**Kubat Öktem, Elif, Karen Mruk, Joshua Chang, Ata Akin, William R. Kobertz, and Robert
+H. Brown Jr. (2016).** "Mutant SOD1 protein increases Nav1.3 channel excitability."
+*Journal of Biological Physics*, 42(3): 351–370.
+[DOI: 10.1007/s10867-016-9411-x](https://doi.org/10.1007/s10867-016-9411-x)
 
-- **Ngu, Anne H., Vangelis Metsis, Shaun Coyne, Brian Chung, Rachel Pai, and Joshua Chang. (2020).** "Personalized fall detection system." 2020 *IEEE International Conference on Pervasive Computing and Communications Workshops (PerCom Workshops)*. IEEE. [DOI: PerComWorkshops48775.2020.9156172](https://doi.org/10.1109/PerComWorkshops48775.2020.9156172)
+**Chang, Joshua, and David Paydarfar. (2015).** "Optimal stimulus waveforms for eliciting
+a spike: How close is the spike-triggered average?" 2015 *7th International IEEE/EMBS
+Conference on Neural Engineering (NER)*. IEEE.
+[DOI: 10.1109/NER.2015.7146647](https://doi.org/10.1109/NER.2015.7146647)
 
-- **Chang, Joshua, and David Paydarfar. (2019).** "Optimizing stimulus waveforms for electroceuticals." *Biological Cybernetics*, 113(1): 191–199. [DOI: 10.1007/s00422-018-0774-x](https://doi.org/10.1007/s00422-018-0774-x)
+**Chang, Joshua, and David Paydarfar. (2014).** "Switching neuronal state: optimal
+stimuli revealed using a stochastically-seeded gradient algorithm." *Journal of
+Computational Neuroscience*, 37(3): 569–582.
+[DOI: 10.1007/s10827-014-0525-5](https://doi.org/10.1007/s10827-014-0525-5)
 
-- **Chang, Joshua, and David Paydarfar. (2018).** "Optimizing stimulus waveforms for suppressing epileptic activity reveals a counterbalancing mechanism." 2018 *40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*. IEEE. [DOI: 10.1109/EMBC.2018.8512762](https://doi.org/10.1109/EMBC.2018.8512762)
+**Kim, Sun-Young, Steven Sweet, Joshua Chang, and Sue J. Goldie. (2011).** "Comparative
+evaluation of the potential impact of rotavirus versus HPV vaccination in GAVI-eligible
+countries: a preliminary analysis focused on the relative disease burden." *BMC Infectious
+Diseases*, 11(1): 1–17.
+[DOI: 10.1186/1471-2334-11-174](https://doi.org/10.1186/1471-2334-11-174)
 
-- **Gee, Alan H.*, Joshua Chang, Joydeep Ghosh, and David Paydarfar. (2018).** "Bayesian online changepoint detection of physiological transitions." 2018 *40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*. IEEE. [DOI: 10.1109/EMBC.2018.8512204](https://doi.org/10.1109/EMBC.2018.8512204)
+**Jiang, Leaf A., Eric A. Dauler, and Joshua T. Chang. (2007).** "Photon-number-resolving
+detector with 10 bits of resolution." *Physical Review A*, 75(6): 062325.
+[DOI: 10.1103/PhysRevA.75.062325](https://doi.org/10.1103/PhysRevA.75.062325)
+:::
+---
 
-- **Chang, Joshua, and David Paydarfar. (2018).** "Evolution of extrema features reveals optimal stimuli for biological state transitions." *Scientific Reports*, 8(1): 1–13. [DOI: 10.1038/s41598-018-21761-8](https://doi.org/10.1038/s41598-018-21761-8)
-
-- **Kubat Öktem, Elif, Karen Mruk, Joshua Chang, Ata Akin, William R. Kobertz, and Robert H. Brown Jr. (2016).** "Mutant SOD1 protein increases Nav1.3 channel excitability." *Journal of Biological Physics*, 42(3): 351–370. [DOI: 10.1007/s10867-016-9411-x](https://doi.org/10.1007/s10867-016-9411-x)
-
-- **Chang, Joshua, and David Paydarfar. (2015).** "Optimal stimulus waveforms for eliciting a spike: How close is the spike-triggered average?" 2015 *7th International IEEE/EMBS Conference on Neural Engineering (NER)*. IEEE. [DOI: 10.1109/NER.2015.7146647](https://doi.org/10.1109/NER.2015.7146647)
-
-- **Chang, Joshua, and David Paydarfar. (2014).** "Switching neuronal state: optimal stimuli revealed using a stochastically-seeded gradient algorithm." *Journal of Computational Neuroscience*, 37(3): 569–582. [DOI: 10.1007/s10827-014-0525-5](https://doi.org/10.1007/s10827-014-0525-5)
-
-- **Kim, Sun-Young, Steven Sweet, Joshua Chang and Sue J. Goldie. (2011).** "Comparative evaluation of the potential impact of rotavirus versus HPV vaccination in GAVI-eligible countries: a preliminary analysis focused on the relative disease burden." *BMC Infectious Diseases*, 11(1): 1–17. [DOI: 10.1186/1471-2334-11-174](https://doi.org/10.1186/1471-2334-11-174)
-
-- **Jiang, Leaf A., Eric A. Dauler, and Joshua T. Chang. (2007).** "Photon-number-resolving detector with 10 bits of resolution." *Physical Review A*, 75(6): 062325. [DOI: 10.1103/PhysRevA.75.062325](https://doi.org/10.1103/PhysRevA.75.062325)
+::: {style="font-size: 0.9em; color: #666;"}
+\* Student or trainee author · † Co-corresponding author
+:::
